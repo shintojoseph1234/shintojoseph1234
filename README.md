@@ -25,7 +25,10 @@ Additionally, I have strong experience in cloud computing, deployment using Dock
 
 </div>
 
-[![Banner](https://github.com/shintojoseph1234/shintojoseph1234/blob/main/README.md)](https://github.com/shintojoseph1234)
+<a href="https://github.com/shintojoseph1234">
+  <img src="https://github.com/shintojoseph1234/shintojoseph1234/blob/main/assets/code.gif" alt="Banner" width="100%" height="500px" />
+</a>
+
 
 
 
