@@ -1,6 +1,6 @@
 # 👋 Hi there ::: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shintojoseph1234) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/shintojoseph1234) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7457047/shintojoseph) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shintojoseph1234@gmail.com) [![shi_nto__joseph](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shi_nto__joseph/) [![thegreatwhitecanada](https://img.shields.io/badge/instagram-%2347A248.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thegreatwhitecanada/) # [![Visits](https://komarev.com/ghpvc/?username=shintojoseph1234)](https://github.com/shintojoseph1234)
 
-I'm Shinto Joseph, a passionate Python/Django developer with a strong focus on backend development, currently in Canada. I specialize in delivering high-quality web and Fin-tech software products. 
+I'm Shinto Joseph, a passionate Python/Django developer with a strong focus on backend development. I specialize in delivering high-quality web and Fin-tech software products. 
 
 With over 7 years of experience, I've developed a range of projects, including REST APIs, web scraping tools, and ETL solutions, leveraging technologies like Python, JavaScript, and Django.
 
